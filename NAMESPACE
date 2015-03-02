@@ -1,0 +1,2 @@
+import(GenomicRanges)
+exportPattern("^[[:alpha:]]+")
