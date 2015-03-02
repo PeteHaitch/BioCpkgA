@@ -9,4 +9,4 @@ Description: A package that does nothing and depends only on CRAN package(s).
 License: GPL-3
 LazyData: TRUE
 Imports:
-  GenomicRanges
+  GenomicTuples
